@@ -3,5 +3,5 @@ function myFunction() {
   var y = 2
   Logger.log(x+y)
   
-  var z = 3
+  var t = 5
 }
